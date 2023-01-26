@@ -1,0 +1,36 @@
+.skills-section{
+    background-color:#40476d;
+    padding: 70px 20px;
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    width: 80%;
+    float: right;
+}
+
+.skills-section h2{
+    font-size: 3rem;
+    color: #040926;
+    margin: 10px;
+}
+
+.skills-sample{
+    margin: 50px;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.skill-btn{
+    padding: 20px 30px;
+    margin: 10px 10px;
+    background-color: #040926;
+    color: white;
+    font-size: 1rem;
+    border-radius: 10px;
+}

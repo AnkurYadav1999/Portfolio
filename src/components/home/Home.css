@@ -1,0 +1,38 @@
+.home-section{
+    background-color:#40476d;
+    text-align: center;
+    padding: 50px;
+    color: #040926;
+    width: 80%;
+    float: right;
+    height: 100vh;
+}
+
+.home-info{
+    text-align: center;
+    margin: 120px;
+}
+
+.home-heading h2{
+  font-size: 5rem;
+  margin: 10px 0;
+}
+
+.home-heading h3{
+    font-size:2rem;
+    margin: 10px 0;
+}
+
+.social-links{
+    margin: 60px 0;
+}
+
+.btn{
+    padding: 10px 20px;
+    border-radius: 20px;
+    margin: 0px 10px;
+    border: none;
+    background-color: #040926;
+    color: white;
+    font-size: 1rem;
+}

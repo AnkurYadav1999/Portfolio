@@ -1,0 +1,33 @@
+.about-section{
+    background-color: #040926;
+    color: white;
+    padding: 50px 10px;
+    width: 80%;
+    float: right;
+    height: 100vh;
+}
+
+.about-section h2{
+    text-align: center;
+    font-size: 3rem;
+}
+
+.about-info{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.about-text{
+    width: 50%;
+    font-size: 1.5rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.about-image img{
+    height: 500px;
+    width: 500px;
+}
